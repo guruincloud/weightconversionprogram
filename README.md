@@ -1,2 +1,2 @@
 # weightconversionprogram
-Weight convertor for Kilograms and Pounds.
+Weight converter for Kilograms and Pounds.
